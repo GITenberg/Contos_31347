@@ -1,0 +1,41 @@
+_repo: Contos_31347
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Queirós, Eça de
+    aliases:
+    - Queiros, Jose Maria Eca de
+    - Queiroz, Eça de
+    - Queiroz, José Maria Eça de
+    - Queirós, José Maria Eça de
+    - Queiroz, Jose Maria Eca de
+    - Queiroz, Eca de
+    birthdate: 1845
+    deathdate: 1900
+    gutenberg_agent_id: '4852'
+    url: http://www.gutenberg.org/2009/agents/4852
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jos%C3%A9_Maria_E%C3%A7a_de_Queiroz
+    - http://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2010-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31347'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+tableOfContents: Singularidades de uma rapariga loura -- Um poeta lírico -- No moínho
+  -- Civilização -- O tesoiro -- Frei Genebro -- Adão e Eva no Paraíso -- A aia --
+  O defunto -- José Matias -- A perfeição -- O suave milagre!
+title: Contos
+url: http://www.gutenberg.org/ebooks/31347
